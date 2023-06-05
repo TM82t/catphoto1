@@ -1,4 +1,4 @@
-# cat_photo
+# catphoto
 
 ## サイト概要
 ### サイトテーマ
